@@ -1,0 +1,29 @@
+Command line:
+   TB_ProcesadorMonociclo_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52987
+
+Thu Apr 28 18:39:59 2016
+
+
+ Elaboration Time: 0.140625 sec
+
+ Current Memory Usage: 843.952 Meg
+
+ Total Signals          : 51
+ Total Nets             : 2632
+ Total Signal Drivers   : 14
+ Total Blocks           : 15
+ Total Primitive Blocks : 13
+ Total Processes        : 12
+ Total Traceable Variables  : 11
+ Total Scalar Nets and Variables : 3011
+Total Line Count : 56
+
+ Total Simulation Time: 0.21875 sec
+
+ Current Memory Usage: 1158.52 Meg
+
+Thu Apr 28 18:40:34 2016
+
